@@ -1,6 +1,6 @@
 # Alexander Williamson
 
-> *"I follow the threads others missâ€”  
+> *"I follow the threads others miss 
 > the hidden paths where systems whisper their secrets."*
 
 ---
