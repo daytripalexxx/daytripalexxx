@@ -1,128 +1,127 @@
-# Alexander Williamson
+# Alexander Williamson                                                                                                                                                                                                                                                        
 
-> *"I follow the threads others miss into 
-> the hidden paths where systems whisper their secrets."*
+> *"I follow the threads others miss—                                                                                                                                                                                                                                         
+> the hidden paths where systems whisper their secrets."*                                                                                                                                                                                                                     
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸœ‚ About Me
-I explore the intersections of Linux environments, Android internals, and automation.  
-My work lives in the space between the expected and the unconventionalâ€”  
-where proot-distro, Termux, and system-level tooling become a single, fluid workspace.
+## 🜂 About Me                                                                                                                                                                                                                                                                 
+I explore the intersections of Linux environments, Android internals, and automation.                                                                                                                                                                                         
+My work lives in the space between the expected and the unconventional—                                                                                                                                                                                                       
+where proot-distro, Termux, and system-level tooling become a single, fluid workspace.                                                                                                                                                                                        
 
-I prefer workflows that are:
-- Minimal yet powerful  
-- Quietly efficient  
-- Built with intention  
-- Tuned for privacy, resilience, and aesthetic cohesion  
+I prefer workflows that are:                                                                                                                                                                                                                                                  
+- Minimal yet powerful                                                                                                                                                                                                                                                        
+- Quietly efficient                                                                                                                                                                                                                                                           
+- Built with intention                                                                                                                                                                                                                                                        
+- Tuned for privacy, resilience, and aesthetic cohesion                                                                                                                                                                                                                       
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸœ What I Build
-- Hybrid Androidâ€“Linux development environments  
-- Automated pipelines that feel like magic  
-- Clean, reliable build systems  
-- Tools that dissolve friction instead of adding to it  
+## 🜁 What I Build                                                                                                                                                                                                                                                             
+- Hybrid Android–Linux development environments                                                                                                                                                                                                                               
+- Automated pipelines that feel like magic                                                                                                                                                                                                                                    
+- Clean, reliable build systems                                                                                                                                                                                                                                               
+- Tools that dissolve friction instead of adding to it                                                                                                                                                                                                                        
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸœƒ Current Focus
-- Integrating privileged operations into rootless environments  
-- Streamlining Gradle, Java, and SSH workflows on mobile  
-- Designing terminals that look as good as they feel  
-- Turning complex setups into repeatable, elegant systems  
+## 🜃 Current Focus                                                                                                                                                                                                                                                            
+- Integrating privileged operations into rootless environments                                                                                                                                                                                                                
+- Streamlining Gradle, Java, and SSH workflows on mobile                                                                                                                                                                                                                      
+- Designing terminals that look as good as they feel                                                                                                                                                                                                                          
+- Turning complex setups into repeatable, elegant systems                                                                                                                                                                                                                     
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸ’» Tech Stack & Specializations
+## 💻 Tech Stack & Specializations                                                                                                                                                                                                                                            
 
-### Core Technologies
-- **Linux Environments**: Deep system-level understanding, kernel interactions
-- **Android Internals**: Framework understanding, ROM development, system integration
-- **Termux**: Advanced mobile development environment optimization
-- **proot-distro**: Rootless Linux distributions on Android
-- **Gradle**: Build automation and dependency management
-- **Java**: Enterprise and Android development
-- **SSH**: Secure remote operations and key management
+### Core Technologies                                                                                                                                                                                                                                                         
+- **Linux Environments**: Deep system-level understanding, kernel interactions                                                                                                                                                                                                
+- **Android Internals**: Framework understanding, ROM development, system integration                                                                                                                                                                                         
+- **Termux**: Advanced mobile development environment optimization                                                                                                                                                                                                            
+- **proot-distro**: Rootless Linux distributions on Android                                                                                                                                                                                                                   
+- **Gradle**: Build automation and dependency management                                                                                                                                                                                                                      
+- **Java**: Enterprise and Android development                                                                                                                                                                                                                                
+- **SSH**: Secure remote operations and key management                                                                                                                                                                                                                        
 
-### Development Tools
-- **Git & GitHub**: Version control and collaboration
-- **Docker**: Containerization and deployment
-- **Build Systems**: Custom automation pipelines
-- **Terminal Environments**: Shell configuration and optimization
+### Development Tools                                                                                                                                                                                                                                                         
+- **Git & GitHub**: Version control and collaboration                                                                                                                                                                                                                         
+- **Docker**: Containerization and deployment                                                                                                                                                                                                                                 
+- **Build Systems**: Custom automation pipelines                                                                                                                                                                                                                              
+- **Terminal Environments**: Shell configuration and optimization                                                                                                                                                                                                             
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸ¤– Language Models & AI Tools
-- **GPT-4** â€“ Advanced reasoning and code generation
-- **Claude 3** â€“ Deep analysis and creative problem-solving
-- **LLaMA** â€“ Open-source foundation models
-- **Mistral** â€“ Efficient reasoning engines
-- **Gemini** â€“ Multimodal understanding
-- **Codex** â€“ Code-specific optimization
-- **Phi** â€“ Lightweight inference models
-- **Falcon** â€“ High-performance language models
-- **Qwen** â€“ Multilingual capabilities
-- **Zephyr** â€“ Fine-tuned instruction-following
-- **Neural** â€“ Custom model architectures
-- **BLOOM** â€“ Multilingual open-source models
-- **PaLM** â€“ Google's pathways language models
-- **Alpaca** â€“ Instruction-tuned derivatives
-- **VicuÃ±a** â€“ Conversational optimization
-- **MPT** â€“ Mosaic Pretrained Transformers
+## 🤖 Language Models & AI Tools                                                                                                                                                                                                                                              
+- **GPT-4** – Advanced reasoning and code generation                                                                                                                                                                                                                          
+- **Claude 3** – Deep analysis and creative problem-solving                                                                                                                                                                                                                   
+- **LLaMA** – Open-source foundation models                                                                                                                                                                                                                                   
+- **Mistral** – Efficient reasoning engines                                                                                                                                                                                                                                   
+- **Gemini** – Multimodal understanding                                                                                                                                                                                                                                       
+- **Codex** – Code-specific optimization                                                                                                                                                                                                                                      
+- **Phi** – Lightweight inference models                                                                                                                                                                                                                                      
+- **Falcon** – High-performance language models                                                                                                                                                                                                                               
+- **Qwen** – Multilingual capabilities                                                                                                                                                                                                                                        
+- **Zephyr** – Fine-tuned instruction-following                                                                                                                                                                                                                               
+- **Neural** – Custom model architectures                                                                                                                                                                                                                                     
+- **BLOOM** – Multilingual open-source models                                                                                                                                                                                                                                 
+- **PaLM** – Google's pathways language models                                                                                                                                                                                                                                
+- **Alpaca** – Instruction-tuned derivatives                                                                                                                                                                                                                                  
+- **Vicuña** – Conversational optimization                                                                                                                                                                                                                                    
+- **MPT** – Mosaic Pretrained Transformers                                                                                                                                                                                                                                    
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸš Shells & Command Interpreters
-- **bash** â€“ GNU Bash shell
-- **zsh** â€“ Z shell with advanced features
-- **fish** â€“ User-friendly command shell
-- **ksh** â€“ Korn shell
-- **tcsh** â€“ Enhanced C shell
-- **elvish** â€“ Expressive data-driven shell
-- **nushell** â€“ Modern structured shell
-- **rc** â€“ Plan 9 shell
-- **ash** â€“ Almquist shell (busybox)
-- **dash** â€“ POSIX shell
-- **mksh** â€“ MirBSD Korn shell
-- **yash** â€“ Yet another POSIX shell
-- **busybox sh** â€“ Embedded shell
-- **oil** â€“ Oil shell (Bash evolution)
-- **murex** â€“ Programmable shell
-- **PowerShell** â€“ Cross-platform automation (Core)
+## 🐚 Shells & Command Interpreters                                                                                                                                                                                                                                           
+- **bash** – GNU Bash shell                                                                                                                                                                                                                                                   
+- **zsh** – Z shell with advanced features                                                                                                                                                                                                                                    
+- **fish** – User-friendly command shell                                                                                                                                                                                                                                      
+- **ksh** – Korn shell                                                                                                                                                                                                                                                        
+- **tcsh** – Enhanced C shell                                                                                                                                                                                                                                                 
+- **elvish** – Expressive data-driven shell                                                                                                                                                                                                                                   
+- **nushell** – Modern structured shell                                                                                                                                                                                                                                       
+- **rc** – Plan 9 shell                                                                                                                                                                                                                                                       
+- **ash** – Almquist shell (busybox)                                                                                                                                                                                                                                          
+- **dash** – POSIX shell                                                                                                                                                                                                                                                      
+- **mksh** – MirBSD Korn shell                                                                                                                                                                                                                                                
+- **yash** – Yet another POSIX shell                                                                                                                                                                                                                                          
+- **busybox sh** – Embedded shell                                                                                                                                                                                                                                             
+- **oil** – Oil shell (Bash evolution)                                                                                                                                                                                                                                        
+- **murex** – Programmable shell                                                                                                                                                                                                                                              
+- **PowerShell** – Cross-platform automation (Core)                                                                                                                                                                                                                           
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸ† Featured Projects
+## 🏆 Featured Projects                                                                                                                                                                                                                                                       
 
-Looking for projects to showcase? Share your repository names and I'll highlight them here with descriptions and links.
+Looking for projects to showcase? Share your repository names and I'll highlight them here with descriptions and links.                                                                                                                                                       
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸŒŸ Highlights
+## 🌟 Highlights                                                                                                                                                                                                                                                              
 
-- âœ¨ Mastery of hybrid mobile-Linux development ecosystems
-- ðŸŽ¯ Expertise in rootless privileged operations
-- ðŸ” Privacy and security-conscious architecture
-- ðŸ¤– Proficient with modern AI/ML tooling and language models
-- ðŸ“š Believer in clean, intentional, maintainable systems
-- ðŸš€ Passionate about elegant automation
+- ✨ Mastery of hybrid mobile-Linux development ecosystems                                                                                                                                                                                                                    
+- 🎯 Expertise in rootless privileged operations                                                                                                                                                                                                                              
+- 🔐 Privacy and security-conscious architecture                                                                                                                                                                                                                              
+- 🤖 Proficient with modern AI/ML tooling and language models                                                                                                                                                                                                                 
+- 📚 Believer in clean, intentional, maintainable systems                                                                                                                                                                                                                     
+- 🚀 Passionate about elegant automation                                                                                                                                                                                                                                      
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸ“Š GitHub Statistics
+## 📊 GitHub Statistics                                                                                                                                                                                                                                                       
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daytripalexxx&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daytripalexxx&show_icons=true&theme=radical)                                                                                                                                                              
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daytripalexxx&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daytripalexxx&layout=compact&theme=radical)                                                                                                                                                   
 
----
+---                                                                                                                                                                                                                                                                           
 
-## ðŸ“« Get In Touch
+## 📫 Get In Touch                                                                                                                                                                                                                                                            
 
-- **Gravatar**: https://gravatar.com/valiantlystellarbfd10535c2
+- **Gravatar**: https://gravatar.com/valiantlystellarbfd10535c2                                                                                                                                                                                                          
 
----
+---                                    
 
-
-*Last updated: February 2026*
+*Last updated: February 2026*                                                        
